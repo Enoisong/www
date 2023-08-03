@@ -69,7 +69,7 @@ Install php
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
- [Live Demo](https://enoisong.github.io/www/)
+ [Live Demo]( http://localhost:4000/www/site.php)
 
 ### Setup
 
